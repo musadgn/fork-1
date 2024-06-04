@@ -11,7 +11,7 @@ import "@twa-dev/sdk";
 
 const StyledApp = styled.div`
   background-color: #e8e8e8;
-  color: black;
+  color: white;
 
   @media (prefers-color-scheme: dark) {
     background-color: #222;
